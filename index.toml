@@ -1358,11 +1358,6 @@ hash = "61892c3c7dd720662a6c21b0e8eec4dff8a5994868a3a2addb917dd3f99c47a9"
 metafile = true
 
 [[files]]
-file = "mods/create-railways-navigator.pw.toml"
-hash = "c0cb2bd911bed59edcc68e7c1e8e044acb51e791ff0d5f376138097def308cb6"
-metafile = true
-
-[[files]]
 file = "mods/create-shuffle-filter.pw.toml"
 hash = "2d2083fc8d2149da8c43947c9577f69dcd0d05abbddf7347e33e7bca3ca94e64"
 metafile = true
