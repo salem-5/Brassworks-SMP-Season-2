@@ -1180,7 +1180,7 @@ metafile = true
 
 [[files]]
 file = "mods/brassworkscore-3.8.jar"
-hash = "e05f6c983a8f53fb9a4019f0572cf0c74a97196ae6a356a507a9ce3f53772271"
+hash = "38add4bf0f9ebdd9d19f30938ab6fd6b34d3a96d559fd70cd807c6a13856b3ae"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
@@ -1709,9 +1709,8 @@ hash = "26986313fbb6a911f1885ee37841cdee4b98584fef8fa5a16768a54a7c6a1d25"
 metafile = true
 
 [[files]]
-file = "mods/opac-essentials.pw.toml"
-hash = "449e42ef13c855438899a6e146b88405b253470896c06a9758558e29e1b94f6e"
-metafile = true
+file = "mods/opac_essentials-2.2.1.jar"
+hash = "9304f86aba3702de0ade75d959c92371e04e538c36d4e34e747e67b9383a8856"
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
