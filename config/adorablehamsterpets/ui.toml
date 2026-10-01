@@ -59,7 +59,7 @@ enableJadeHamsterDebugInfo = false
 # Your personal switch for all announcement notifications. Turning this off is the same as clicking 'Disable All' in the announcement screen. Announcements can still be viewed in the §f§lHamster Tips§r guide book.
 enableNotificationIcons = false
 # If true, completely disables the announcement bell icon for all players on the server, overriding their client settings, including 'Enable Announcements (Client).'
-serverDisableAnnouncements = false
+serverDisableAnnouncements = true
 # For when you see the update notification and think, 'That's a problem for future me.' Future you will be so proud. This is where you select many days to hide the 'Update Available' notification when you click 'Remind Me Later'.
 snoozeUpdateReminderDays = 5
 # Decide if the bell haunts you full-time on the HUD or only ambushes you when you're trying to organize your inventory. If disabled, you will only see notifications when you open an inventory.
