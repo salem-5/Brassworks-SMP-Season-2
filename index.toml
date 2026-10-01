@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/adorablehamsterpets/main.toml"
-hash = "a32a9bfa4c4f11a906c6381d4aa1c846307c48da94d66bd830a99c1efe2d009e"
+file = "config/adorablehamsterpets/ui.toml"
+hash = "e91881d3bdc2ee189c46a70f6498755f5a30d11eb40da54dbb23d0c58c6a3c77"
 
 [[files]]
 file = "config/amendments-common.toml"
@@ -951,6 +951,10 @@ hash = "c79a27fbf71338559f7656d746c640533b6d79c0fed9762c1b80f6fa6c12366b"
 metafile = true
 
 [[files]]
+file = "config/railways-common.toml"
+hash = "1bf10b6a63183992b31d00edb9cdf8a9f457b31aaf7732e3bee4bb8dec05f74b"
+
+[[files]]
 file = "config/sdrp-common.json"
 hash = "eba1acf2c4cf75ecc9221f5a83bb6a19866f1416a1f51b69a2033d09a35b1c66"
 
@@ -973,658 +977,6 @@ hash = "2904ee6b8c746439d4a3f2e112ec626ef1c952252338eff0db5d8db78c23b958"
 [[files]]
 file = "config/xaerominimap-common.txt"
 hash = "3fdfaa4595d4e55c1e6b3a6ba74aec07ca2701ec767c34d5209a7bc08d0dbfbd"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/crushed_raw_ancient_debris.png"
-hash = "62597e326e5ba0d656191fe74d9b6b1582a848b9ab9ed4d2fcd894fa40de1ae7"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/rolls/choco_roll.png"
-hash = "a0804948a59d776b73b89b88aa250f15c7b580df10ff1cdc97a69cd5e5cc0143"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/rolls/honey_roll.png"
-hash = "7634d1798bd0abc762f61c0068bd733744313e0c8ff98395fd1474a725f0a038"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/rolls/hyper_xp_roll.png"
-hash = "f8e213888788f1061fbcde1d435d5518d64578e72362ab2524e31166c4eaecf7"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/rolls/lumisene_roll.png"
-hash = "7df5455f83fc5d4c5aab7cca9879d827ad69e483f8643a9b95fcfede584ae319"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/rolls/sweet_roll.png"
-hash = "495460df8995d282cdf1ce6c1cebfd07694771830d3652e8c0bba41730c56009"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/rolls/sweet_roll_overlay.png"
-hash = "f4863a021253021ca001656787ac6f571eb1bb4f9bd5323523be2eaff4b46140"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/rolls/xp_roll.png"
-hash = "d96cbd5c4817d7df797216c52b56bc258ce575550c1eccd1ca40ffe3630b0b24"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/whitened_pulp.png"
-hash = "8a4f8e3e06d805c687438bce3662cd864fc69b31b41613b9e53eb15191d95d14"
-
-[[files]]
-file = "kubejs/assets/create_connected/textures/item/control_chip.png"
-hash = "81aee086799f47967234dcf0dc05ad40aed15c4b088e40db40290d4aec1936d0"
-
-[[files]]
-file = "kubejs/assets/create_connected/textures/item/incomplete_control_chip.png"
-hash = "5b3c95da11d911bc5134ac16dcfbe3478076c62321aed2fe8efb084394cc16cf"
-
-[[files]]
-file = "kubejs/assets/create_vibrant_vaults/lang/en_us.json"
-hash = "93b4d71bb82c1c45b0bb5f660f18e8724b1bbefcdc4b8a8a91b0e2184714028b"
-
-[[files]]
-file = "kubejs/assets/emi/index/stacks/hidden_stacks.json"
-hash = "ca8229657b159ab2b18bd021d19f0307713120354a4259eef9a6d82744bde5f4"
-
-[[files]]
-file = "kubejs/assets/emi/recipe/additions/limestone.json"
-hash = "4f6900effa988a328b6964598055d1409e3db5698f5203d4f3c2342b61f297ae"
-
-[[files]]
-file = "kubejs/assets/emi/recipe/additions/scoria.json"
-hash = "2ca37d31da1869a2382b094bec111f1de9112bfa5309a75a91ff87e1129be676"
-
-[[files]]
-file = "kubejs/assets/minecraft/models/block/moss_carpet.json"
-hash = "d09dc0ae71e42d9de103e48cbd71ff0bc4943d3ec4973e87b7d5104ee77842f8"
-
-[[files]]
-file = "kubejs/assets/minecraft/models/item/moss_carpet.json"
-hash = "03d7149b66bb816c0d89ef26ab354be6062a99df00e78bf92b895217143d7526"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/block/moss_side_overlay.png"
-hash = "0b01495ba3ba27c93fa673ea5cd3700a0add7e6299de295a423682ee24f2de36"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/deepslate_top.png"
-hash = "6756166657ca891a1463c60123de3e4bc23c21d78c61471dea0594250a4119b2"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/footer_separator.png"
-hash = "862207856ba765bc7c70c581e216536595cde657c1920e563c651a62db61586c"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/header_separator.png"
-hash = "d10f55d8e23aea1bda15df3f6d411f1e7399c7df089243740cab1e2fa98156e0"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/light_dirt_background.png"
-hash = "9bb823079b9e2284449ff22a405baffd73bfe1463beb26df9093fc1071b103ad"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/options_background.png"
-hash = "298fd8411855aa74e700ba37036e0fe9713eac07fb1aa6c906f42c7054f870b6"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/slider.png"
-hash = "7ed633593de35028f13e6e5523408ce38cf075116cf0422a3c01292aa4edefc0"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/social_interactions.png"
-hash = "d2eabd1487e790c129ad24ec5a8c6c2bc01c0936ca07155f7039d79c17b858d2"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/tab_button.png"
-hash = "c14a45985f3e71243e294b29f8786c2af6fc44d873356a4966118dbb26ee3157"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/title/mojangstudios.png"
-hash = "9ddd1b8f02b7cc4f9f4c540c1208faa9d2fa896fad197f1ac55a1691b0891e40"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/widgets.png"
-hash = "483e26e1920763d9bc27dfcc6d164bb7fafda30ae199ebf2d8b8a2bbb1481d98"
-
-[[files]]
-file = "kubejs/assets/vanillabackport/models/block/pale_moss_carpet.json"
-hash = "43f4fcfec3175a7a23d1f80643447c73588b51b9a4fb97bd18510d6f97e1fad8"
-
-[[files]]
-file = "kubejs/assets/vanillabackport/models/item/pale_moss_carpet.json"
-hash = "713459546a902bf2ae83d8653b09b992858e618c5f5fb76f1977515b5f749355"
-
-[[files]]
-file = "kubejs/assets/vanillabackport/textures/block/pale_moss_carpet_side_overlay.png"
-hash = "a32fa13607e8752c52542b343472c9f3d1705cbb91856628e944ef22fcd007bb"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/definition/ribbits/ribbit.json"
-hash = "d5397d13773774c55c79d67ebf691073758c2354eed788c8e37e4f6469503eee"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/ribbit.png"
-hash = "045976725a6ca9f77ef1285f06396afaa711c85f88c14d18c752aab5792de32a"
-
-[[files]]
-file = "kubejs/assets/xaerominimap/entity/icon/sprite/slabfish.png"
-hash = "811b020cb65f50fe556a5fe246f710890ca5193793871ff69d14246e314d5bf4"
-
-[[files]]
-file = "kubejs/client_scripts/RecipeViewerScripts/EMI_hints.js"
-hash = "45c99b3be96a938cb074f28068ffee560bd1297aaf41155da98e325308791ece"
-
-[[files]]
-file = "kubejs/client_scripts/RecipeViewerScripts/hideitems.js"
-hash = "a9f9825d44a072ae5603d7e03c3492b9dec9ab2e78caf0722619c79b20441be7"
-
-[[files]]
-file = "kubejs/config/client.json"
-hash = "87a09ee1609bc799223c58cb6225c769bb4d0a1a0bb6d9186ff5f8875c7e9a37"
-
-[[files]]
-file = "kubejs/config/common.json"
-hash = "b412abd9d987897b3c8679bfe42f41e12b3bcd8d186c021bd47eb861f4ee4748"
-
-[[files]]
-file = "kubejs/config/playerdata.json"
-hash = "d901e642257a7296e14ebd5d35d841ab8702f98504cfc924d27f9aeb4ed35b21"
-
-[[files]]
-file = "kubejs/config/web_server.json"
-hash = "82958e4a174e290a898c7eb674f0511e0409ae1805895d291fca5d6310a49d1c"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/archaeology/desert_pyramid.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/archaeology/desert_well.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/archaeology/ocean_ruin_cold.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/archaeology/ocean_ruin_warm.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/archaeology/trail_ruins_rare.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/abandoned_mineshaft.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/ancient_city.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/ancient_city_ice_box.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/bastion_hoglin_stable.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/bastion_treasure.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/buried_treasure.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/desert_pyramid.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/end_city_treasure.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/igloo_chest.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/jungle_temple.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/nether_bridge.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/pillager_outpost.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/ruined_portal.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/shipwreck_treasure.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/spawn_bonus_chest.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/stronghold_corridor.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/underwater_ruin_big.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_armorer.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_butcher.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_desert_house.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_plains_house.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_savanna_house.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_snowy_house.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_taiga_house.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_tannery.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_temple.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_toolsmith.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_weaponsmith.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/chests/woodland_mansion.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/entities/cow.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/inject/entities/mooshroom.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_modifiers/smelt_ores_with_pickaxe_heater.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/artifact.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/entities/mimic.json"
-hash = "916b659d81a5fb314705d10915bae25e8fcd2e728b78885b6173f90ad51c5558"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/entity_equipment/drowned.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/entity_equipment/ghast.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/entity_equipment/husk.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/entity_equipment/piglin.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/entity_equipment/piglin_brute.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/entity_equipment/skeleton.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/entity_equipment/stray.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/entity_equipment/wither_skeleton.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/entity_equipment/zombie.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/entity_equipment/zombified_piglin.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/archaeology/desert_pyramid.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/archaeology/desert_well.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/archaeology/ocean_ruin_cold.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/archaeology/ocean_ruin_warm.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/archaeology/trail_ruins_rare.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/abandoned_mineshaft.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/ancient_city.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/ancient_city_ice_box.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/bastion_hoglin_stable.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/bastion_treasure.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/buried_treasure.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/desert_pyramid.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/end_city_treasure.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/igloo_chest.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/jungle_temple.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/nether_bridge.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/pillager_outpost.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/ruined_portal.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/shipwreck_treasure.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/spawn_bonus_chest.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/stronghold_corridor.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/underwater_ruin_big.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_armorer.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_butcher.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_desert_house.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_plains_house.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_savanna_house.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_snowy_house.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_taiga_house.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_tannery.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_temple.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_toolsmith.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_weaponsmith.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/chests/woodland_mansion.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/entities/cow.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/inject/entities/mooshroom.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/artifacts/loot_tables/items/drinking_hat.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/brassworks/advancements/brassworks/cinnabon.json"
-hash = "d19bee537a3b67a2c12856c81d325de03e775ac9addf7dac8d6255bbf0462f6a"
-
-[[files]]
-file = "kubejs/data/brassworks/advancements/brassworks/crushed_ancient_debris.json"
-hash = "651f60bb91aff26ecc19896f87e669a56023bcca97b2b8ea5ba98ee3851362f7"
-
-[[files]]
-file = "kubejs/data/brassworks/advancements/brassworks/destroyed_track.json"
-hash = "6d52d3fc0c920350514fb763e12d24fc92714a721149f96bc9613837798a2b82"
-
-[[files]]
-file = "kubejs/data/brassworks/advancements/brassworks/event_winner.json"
-hash = "c67ca0460e91f536d38addafc56f319b942f7ac6a7eb08ee965d65dcfed62a68"
-
-[[files]]
-file = "kubejs/data/brassworks/advancements/brassworks/hyper_xp_block.json"
-hash = "10f5d5372c56ebe6a4dbcd5b0929ac1118a71e8b0cb3ef1e4a493f2802d30dbb"
-
-[[files]]
-file = "kubejs/data/brassworks/advancements/brassworks/hyper_xp_nugget.json"
-hash = "df8be41c929847baa4ccf8579afe09a8dc9e8d1217c419ae26cdbf4492408b86"
-
-[[files]]
-file = "kubejs/data/brassworks/advancements/brassworks/hyperxp_tools.json"
-hash = "cd347e4becc7c5683df31b8f7973a9977eb286e2e15dcb14b9afb29a7fb28ea4"
-
-[[files]]
-file = "kubejs/data/brassworks/advancements/brassworks/root.json"
-hash = "9c9e78634eac6519ca572dc4e6c8152d5b7eed0111456b11e4f8a8739f0768b0"
-
-[[files]]
-file = "kubejs/data/brassworks/advancements/brassworks/sniffer_carpet.json"
-hash = "fb50ccaafcb872614cce656d91ab095f847d398b55865978da4e35b5bbbe2926"
-
-[[files]]
-file = "kubejs/data/brassworks/advancements/brassworks/sniffer_fur.json"
-hash = "a97e8635096982ba192a569c57f43c8407844f59bd87e0dc98a732c8fa38bd76"
-
-[[files]]
-file = "kubejs/data/brassworks/advancements/brassworks/sniffer_wool.json"
-hash = "b5b59da1db309566a1e095ae2529eb4ed3cd4e3c6745d2accd334eab2e1a97e3"
-
-[[files]]
-file = "kubejs/data/brassworks/advancements/brassworks/spur.json"
-hash = "9161dc633bd56b9af8615aece01c1fe31f0d81b97aba071e59a5d99823a142ae"
-
-[[files]]
-file = "kubejs/data/brassworks/advancements/brassworks/sticky_symphony.json"
-hash = "47abb62a0ac99fe75e6bed3a645562b3b3a4ce18702f91f4a615adea7c32831f"
-
-[[files]]
-file = "kubejs/data/brassworks/advancements/brassworks/wandering_music_discs.json"
-hash = "f1fe4d9175a085c95724b79b927bf64dc01414285fe12e214bd71a45d77d070f"
-
-[[files]]
-file = "kubejs/data/brassworks/advancements/brassworks/whitened_pulp.json"
-hash = "5e5a620068af941994347feb3a44443a82fcdc3cc48ad1c7adf5425e8a888aea"
-
-[[files]]
-file = "kubejs/data/brassworks/loot_tables/blocks/sniffer_plushie.json"
-hash = "6351a9433eb202b35290b5e219d48fb9301f28b440441e0239c66e618aa7a6a9"
-
-[[files]]
-file = "kubejs/data/brassworksmissions/missions/mission_reward.json"
-hash = "2d1e6825cf350c6d7cff7795025fe611c8e96d471a5c19d03ec2f0f0b6575ef4"
-
-[[files]]
-file = "kubejs/data/brassworksmissions/missions/missions.json"
-hash = "808cc22d6f2e6f391f29de3f3fa46525731d97ed1676c4607231cc1511640996"
-
-[[files]]
-file = "kubejs/data/create/recipe/compacting/ice.json"
-hash = "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede"
-
-[[files]]
-file = "kubejs/data/create/recipe/crushing/ochrum.json"
-hash = "883e0abcf2875fb9a5d435226a5a1fadb0fd1a25c6bbe700056377b2bcad1649"
-
-[[files]]
-file = "kubejs/data/create/recipe/crushing/ochrum_recycling.json"
-hash = "5de801359c2c62fd40370120fc00b84dc3f0db903ded6b432b88667b1d34f187"
-
-[[files]]
-file = "kubejs/data/create/recipe/crushing/tuff.json"
-hash = "cbfeaabef9b2e5b4ea9b52ce6d01b21ed939c11385862a928b93816c7f52bb15"
-
-[[files]]
-file = "kubejs/data/create/recipe/crushing/tuff_recycling.json"
-hash = "0047853ba94957852f9a652f5cea9e00b0ee6d1f2a94a46d05b7e703da9b51fc"
-
-[[files]]
-file = "kubejs/data/create_dragons_plus/recipe/freezing/packed_ice_from_ice.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/create_dragons_plus/recipe/freezing/snow_balls_from_water_bucket.json"
-hash = "36ce839af5b7664cf3956f0975cb16c9086e6deedfe818ce3a29e7cdc0f08f79"
-
-[[files]]
-file = "kubejs/data/crittersandcompanions/neoforge/biome_modifier/add_river_spawns.json"
-hash = "47a863c69ed15e8fd0cbc3a57c2001788572029de47960e3df894680bf995087"
-
-[[files]]
-file = "kubejs/data/forge/loot_modifiers/global_loot_modifiers.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/data/minecraft/loot_tables/entities/slime.json"
-hash = "423ee6c52c90a9e8c3025ba0cc7cb5241d4cbdadf47df4e5983bd74c4915fbbd"
-
-[[files]]
-file = "kubejs/data/minecraft/loot_tables/gameplay/sniffer_digging.json"
-hash = "8239d41411c5c4484022f8ccfb7a542dc4961155a98396928489eaf0b16a6c60"
-
-[[files]]
-file = "kubejs/server_scripts/Recipes/compost.js"
-hash = "f3c3a2013ad913235d82847e42d299741ccfee6b8f890a1c0d38f2a09f392a1a"
-
-[[files]]
-file = "kubejs/server_scripts/Recipes/crushedancientdebris.js"
-hash = "bbd9db954524b76b4b098a107cce870a5738a32d24060ed0f25f1eb08ceddfe6"
-
-[[files]]
-file = "kubejs/server_scripts/Recipes/hyperxp.js"
-hash = "222be7391a3c0e2d1e7fc7bc62fa3ea84a6fc3a612562ccf52a0a783c8ce8a44"
-
-[[files]]
-file = "kubejs/server_scripts/Recipes/immersivecreaterecipes.js"
-hash = "7148852721f3bd4c6e7edbe670c2cbf4ee534474593a53fbb637257b2d659caa"
-
-[[files]]
-file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "16086e8f35f4c89ec233b8fe61455a9a7843cde0e008eba5d38d5fff2863721f"
-
-[[files]]
-file = "kubejs/server_scripts/Scripts/nohiddenitems.js"
-hash = "f913580e17184e72c7dd7835b63fd1e76494a99b9ec078fc06de03ae3ff2cfca"
-
-[[files]]
-file = "kubejs/startup_scripts/ItemRegistry/cinnabons.js"
-hash = "ad698500157eca5c10670a2c6b405b3180c2ca1425803758d5a9ce9d6a870929"
-
-[[files]]
-file = "kubejs/startup_scripts/ItemRegistry/misc_items.js"
-hash = "fa8868cb2960f729e0a4d6ab1e677abf237f7dac7cb902bf90e3c7a67e4f5ac4"
 
 [[files]]
 file = "modpack-info/meta.json"
@@ -1744,12 +1096,17 @@ hash = "1263ee0c2275709beecf77ae056a0db98a48cb0e84a72a1dedab8c1fa4f677c0"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
-hash = "1adbcc263f34ce732dbb38bb3307cf7f418cce491e8f6ddc65f59bacd9f46c60"
+hash = "55e42a2bc361c0319990d362aa3f2a92fec0ca1dcbf567c94481aca169991496"
 metafile = true
 
 [[files]]
 file = "mods/adorable-hamster-pets.pw.toml"
-hash = "9921063ba7dd402db487af0bf715e9e4dc61816b01217b4b7c94c46c73ed593d"
+hash = "e638607b90e3883b21c06b019f465a5348dd5eff99bf176b8564a6d22ba16f1c"
+metafile = true
+
+[[files]]
+file = "mods/advanced-pvp-toggle.pw.toml"
+hash = "f643fec9c216f67cb31334832cda1ac3543a759b9e6b1bf26b7d5ea0ea592030"
 metafile = true
 
 [[files]]
@@ -1759,7 +1116,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
+hash = "176c819c0421ebaeea291713232e921d9cdd83753348c97bc7ba9237c5c15912"
 metafile = true
 
 [[files]]
@@ -1774,7 +1131,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
@@ -1784,7 +1141,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "ee8fe23f84570163edfad9a83cd5d14ca2274829fed2bb70fa70da393341f764"
+hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
 metafile = true
 
 [[files]]
@@ -1793,12 +1150,12 @@ hash = "883b2a6e0b10f1e772fac3a182da7f6368e14c8d6e6dac835fcfbcfdb48e5eeb"
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "cc360d86f76e729d3ebb7384cfbc933d8ffba694ba91360edeb846d61d14e561"
+hash = "bdc3b9cc4b47d5dcee86a9b79ec74433454da8879bfc578f4eaad5cc503209f2"
 metafile = true
 
 [[files]]
 file = "mods/be-quiet-negotiator.pw.toml"
-hash = "66821349bbdc96301e817117c2c6710d432e860a494bcf3f4b5cadb09cd90d5a"
+hash = "8d1375fd0c5405e0e38c3d02599ec8ba4987ed71b893ed78e9bd9006086652c4"
 metafile = true
 
 [[files]]
@@ -1808,22 +1165,22 @@ metafile = true
 
 [[files]]
 file = "mods/better-modlist.pw.toml"
-hash = "b841dbd591775e39c4c04361bf56cefabbb954dc709608f0ea812a7e4db00530"
+hash = "ad0b8b0b633c31c1208c6baebc12ef2b67a41910a2e356d96b537fdbef909f82"
 metafile = true
 
 [[files]]
 file = "mods/blocks-bogies.pw.toml"
-hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
+hash = "07f30551060d5eb77a36ad9eb26131751d790d8e43378faf4143c6f53f0da245"
 metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
+hash = "ead3aff0899e5bc61eb22fe0af86722b430f9e92990b3cd2720d5c2c1f66d023"
 metafile = true
 
 [[files]]
-file = "mods/brassworkscore-3.7.jar"
-hash = "d8598b13419db8f905ccc60ea10a4bd8c9ff8630e42a67bc445c920935dbdefa"
+file = "mods/brassworkscore-3.8.jar"
+hash = "e05f6c983a8f53fb9a4019f0572cf0c74a97196ae6a356a507a9ce3f53772271"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
@@ -1842,7 +1199,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
+hash = "80455b28c3010ad153ccabc2998cb445b9854b26b386628243a9c8160b8d7e8e"
 metafile = true
 
 [[files]]
@@ -1852,7 +1209,7 @@ metafile = true
 
 [[files]]
 file = "mods/clayworks.pw.toml"
-hash = "055b1cba862cdddfce8466ce63b9cf1bf07541602069e80c6cf9f50d64ec8197"
+hash = "171914c4eb938f32813bc9449ca5dc90210b33b5b389b4c9f2d718b4e34df2f1"
 metafile = true
 
 [[files]]
@@ -1867,7 +1224,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "6c74606e0365395dad900969404d20c6a2bda088f5d667f3f478e18866c400f5"
+hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
 metafile = true
 
 [[files]]
@@ -1877,27 +1234,12 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+hash = "a7eb11401eda3779b7f2d6f32c2964511d5c71760573f2577d55c78ca800f8a3"
 metafile = true
 
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "2b8c5286980b8d864085d02a6b2153cefa401a965833139ffac8e7661a322f7c"
-metafile = true
-
-[[files]]
-file = "mods/corpse-x-cosmetic-armor-reworked-compat.pw.toml"
-hash = "e612ffa78c58fb925bfe86f63c9bcfd969db4e654cf7bca03605c884a1848ecf"
-metafile = true
-
-[[files]]
-file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "0f24d3112418b31cf86b84d0ded37decc9dbd50cc229cec632547458c01ffdca"
-metafile = true
-
-[[files]]
-file = "mods/corpse.pw.toml"
-hash = "c5896918c7bf007b8355020319c3f6532ad6bae457f74a27a58e7b1a8c1d58b1"
 metafile = true
 
 [[files]]
@@ -1912,27 +1254,22 @@ metafile = true
 
 [[files]]
 file = "mods/create-aquatic-ambitions.pw.toml"
-hash = "13095f719e466c9187ed385ea7b709226da71143cf192a932d8ec7b27e0c7288"
-metafile = true
-
-[[files]]
-file = "mods/create-bitterballen.pw.toml"
-hash = "458140f6cde00189438da7cbc36c373a0215166dc313813a48a7034bccb9bff0"
+hash = "ad732ada7e42c44f0d5eaf45f5edfb7e90bc615ba6e50a3bb974250dfb36e83f"
 metafile = true
 
 [[files]]
 file = "mods/create-brassworks-missions.pw.toml"
-hash = "c8d619c3fd9e2a90cad04062bc16a2762552979af9f0a18212dafe1bb5333b1a"
+hash = "068fe3ba9e6010ef3b639110c1fb0b508edf4bbe3fcd70d5ec62d7af7bfb096f"
 metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "841520a74c765cb9aef0cc35ec3f9ea3bef68b47eca8ed2643abacee6961c2ff"
+hash = "7a7eeb96f8cf82768269855ff837c07fa75daf32a6f560d85f2bf901402d70d3"
 metafile = true
 
 [[files]]
 file = "mods/create-compatible-storage.pw.toml"
-hash = "5e6c61549caae38e8232f91a359956c1804a56aa91274a33338ac0ba80f62b59"
+hash = "c4af8c4810587d8c19fdc3dec720687fd575be0c55b625f4d0a8900a39b7f80b"
 metafile = true
 
 [[files]]
@@ -1942,42 +1279,42 @@ metafile = true
 
 [[files]]
 file = "mods/create-configured.pw.toml"
-hash = "8dc6ec1f66b7cb45e3a23c42d3a720a0e66cd8a1f1723e5f5e832ab8ff0a1598"
+hash = "6561388e30510f40849f2a09d0c788e465e8aec882d3921d3f82306fa1ed9c26"
 metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "ac4d934d395dd4422d14cfc2f90670896ada7cb2d97fe078706e93a9de1b45a9"
+hash = "6ac362d60bc8b13e03a5b6b9cdf9c7676f65d3e89e87c66f18514e7ee164cdb0"
 metafile = true
 
 [[files]]
 file = "mods/create-deco.pw.toml"
-hash = "b6a96c5ca32349b73df3dc7f91083d2b365c0065f8022fee7020f3ae39900888"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
+hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
 metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "1363456107dacc8202a7bfcea93622fa81d04570f77d4075146b3b4bc9bbeac8"
+hash = "fee3168d738da085fb0656197d3970f661736ad768eac9184e74688644c5f109"
 metafile = true
 
 [[files]]
 file = "mods/create-easy-stock-ticker.pw.toml"
-hash = "de4bcd0988db2d00762da6e174261d92dc8e93c57b66a63a35b6e5833da0086c"
+hash = "258c71874af9d741d206ad5ebb2f8f708cbbc27be3ee2061c6e1f922cb310e50"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "5b1281a4c0766f71f72db9721090403e47893d23d7f8c05907b522d6d9188542"
+hash = "b8ba73d545a0deb9716610ebd1e6fb1cb6c4eae3f234aa7c1e43105eff0d4bc6"
 metafile = true
 
 [[files]]
 file = "mods/create-fast-schematic-cannon.pw.toml"
-hash = "105b1f8eb9f09418432e257df0c32db6e06a81751f6a1a8eb639f94136272672"
+hash = "04b2b2ac2ba22e29d1b45495b46e2d10db156e79743df1823d016e29b2d1fb54"
 metafile = true
 
 [[files]]
@@ -1987,22 +1324,22 @@ metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
-hash = "c6f449a5dbd6640cef3a2d46f198af505b1d3fe7cb38c43057bb16ea055c3d7f"
+hash = "db683b65dc15a03dd6de2d34d5dc6ad0e3490744ced513a8cc584784ee9d3d8b"
 metafile = true
 
 [[files]]
 file = "mods/create-integrated-farming.pw.toml"
-hash = "0cc21d93573e2a8f2ac2744f93db54f08cba3a3129ee84c4800190a529c783e6"
+hash = "20d1df364112b6654949f2c37c8c749878874b912dd75794242369e254d4114a"
 metafile = true
 
 [[files]]
 file = "mods/create-more-girder.pw.toml"
-hash = "59fa6cb619c468cad7dbae9aa021d8b2e5f1e15dad23a5739f71edcd04f52045"
+hash = "a4df78f6f71d299dae9712c228eea9fb42748133877e464c52a1b0124f31fe00"
 metafile = true
 
 [[files]]
 file = "mods/create-more-package-couriers.pw.toml"
-hash = "1e75c32be478f22def5dd26a9a53f1b971e1c1ddabf01c782f0cc97e1e6d929b"
+hash = "9f6612c3600da90585aaac1020de82c7efaf8d6bfd07b59a56a4489b2e4dd81c"
 metafile = true
 
 [[files]]
@@ -2017,17 +1354,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-qol.pw.toml"
-hash = "2647338dcbd812ff86b8a865ff1af9f000b954ed175e8a62036baf09ecec15ca"
+hash = "61892c3c7dd720662a6c21b0e8eec4dff8a5994868a3a2addb917dd3f99c47a9"
 metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "e05f58ae0f9ecc384a58e81d4013919b588f9b16579edd40c446088dd2a3eae9"
+hash = "572ec7a57be68aa913863f4fa3be7208ae3dbb846043f3c5890a290976b41f90"
 metafile = true
 
 [[files]]
 file = "mods/create-shuffle-filter.pw.toml"
-hash = "8495de36b729391d2411dea3c92b41b7b25e1dfa18689ec1f3831b2bed709a19"
+hash = "2d2083fc8d2149da8c43947c9577f69dcd0d05abbddf7347e33e7bca3ca94e64"
 metafile = true
 
 [[files]]
@@ -2047,12 +1384,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
-hash = "104581a7f2a0b1c164399d278675f68701a2147db5a895188298e049d14dcea9"
+hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
 metafile = true
 
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
-hash = "b767a98f2c669c56d800c0831ef965481e0fae02ef3ab9d724eb29d2efb65ba3"
+hash = "2244c6c580c41f432e02bc82a6f78af0b1777de42400d1e5b702208376c56c6f"
 metafile = true
 
 [[files]]
@@ -2077,7 +1414,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -2095,12 +1432,12 @@ hash = "b8dea6c02427285e2b3be3330e7dea9d04b3e05a960fd9f7911cbf0f21438aef"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
+hash = "5931025bb6c50fa9064bd6c3c3ca51afb4119535bd77d8cc01b6509e53a9abc1"
 metafile = true
 
 [[files]]
 file = "mods/createschematicchecker.pw.toml"
-hash = "3ea90dc6b57c75ecc807e7bf6758602c114cc8932fe8e1da83df547af6243c91"
+hash = "20b696f29c8c0d871f964fea82e20f5d90dc1cbc808e0d1c5522e2c932a264e6"
 metafile = true
 
 [[files]]
@@ -2109,7 +1446,7 @@ hash = "b55f06ec5522bcb54e61e98b41670e829e12c09e1e9db11ab415bb61637a859c"
 
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
-hash = "55a0ba4e06c9c4098eb04611b0cba005256c06db7421007fea1a7ddd36d7b375"
+hash = "b065a8cb99a887abb2c434b84e3fa84f1e62cf500b1b9f50c86a4b48e4bdcc4f"
 metafile = true
 
 [[files]]
@@ -2118,13 +1455,19 @@ hash = "650d83f19ef2c073e57dfc087226fe029c0aa6d12cfdd57a091666a216bb5d15"
 metafile = true
 
 [[files]]
+file = "mods/delight-lib.pw.toml"
+hash = "c4fb5bf78ad912a20ff50767f4e5cb64fd84f04d58db0c79bc728b643acc4038"
+metafile = true
+
+[[files]]
 file = "mods/delivery-director.pw.toml"
 hash = "6698c567fce253cdc646bff69e34b0a1d551d51f73799603159b744386737eae"
 metafile = true
 
 [[files]]
-file = "mods/deployer-0.0.5.jar"
-hash = "c592b63faa45f4fd2d97de5fa7cc98f1d98cdf50e1e52cb22d0bb34623015775"
+file = "mods/deployer.pw.toml"
+hash = "0e4942ab12e496d3649dc35f1734c20c9fb46e235265f7076a2465eb1b139473"
+metafile = true
 
 [[files]]
 file = "mods/direct-chute.pw.toml"
@@ -2133,7 +1476,7 @@ metafile = true
 
 [[files]]
 file = "mods/display-delight.pw.toml"
-hash = "28f531c7efc9e5257235adcb19913ed278f3bc76a36326f28d9fb9303df9e4de"
+hash = "18219006cd971209a7630c5704c2ca92d5631f3d6ee6cb1c43975656c249ba0f"
 metafile = true
 
 [[files]]
@@ -2143,7 +1486,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "6be0888f4633c093f455d9e6d27aa68f0c8879cc2c12a8a4fc569eb22c451bfc"
+hash = "f943c276fcebd5542c4b3dda60634728e1a70212f15dc9af8f0b7b9bb40199db"
 metafile = true
 
 [[files]]
@@ -2152,38 +1495,8 @@ hash = "420c454a22c453ef2c80401e58587244a2ea7fbd6132493b9c72fc6d8c6fb1d8"
 metafile = true
 
 [[files]]
-file = "mods/emi-create-schematics.pw.toml"
-hash = "e0da63d5ba6b0649e29325584dd15046070f7b5b251f41fc7e33ce85be240f8f"
-metafile = true
-
-[[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "519f011d36736129795025f19301ad2d6141f422857d6154a3df2e2019f416f3"
-metafile = true
-
-[[files]]
-file = "mods/emi-ores.pw.toml"
-hash = "0b921f73d5b1ad6615740956567d6cb06950f5520f094dbb7a045bb4bd5ba309"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "7988c367539dd83722d24c50166e60c49c074ab9426afca9aca358b9cd2d0094"
-metafile = true
-
-[[files]]
-file = "mods/emixx.pw.toml"
-hash = "1a2ca9865ee018d9cc28693cfa6aa5e181a636eef9fa7811564ce4b6b859ff9d"
-metafile = true
-
-[[files]]
 file = "mods/emojiful.pw.toml"
-hash = "11845b676d375dc89cd0d41ae637e51f78c8747c73baaa3f6539a703196eefe1"
+hash = "6fb320d3ab2a4b3ea9458c60a1fb1d0ceadebe4cceb17291db83699ec4bc7f3d"
 metafile = true
 
 [[files]]
@@ -2193,22 +1506,22 @@ metafile = true
 
 [[files]]
 file = "mods/escalated.pw.toml"
-hash = "33a5a487efc06e4dc8484e49a5707a52597c5a1dc716f2ec1dfe7bdfb5392187"
+hash = "528ae7ee97068e0250282f449ee8224ff6f3dfd3b66c50d7651590b43080c7a8"
 metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "d1b7cd4a0396962f290677b5d63b02d8f20e79ef9fce5b1234644c9b2f1031ef"
+hash = "e7e24f7fa2aa5971660befc844caac9d06952bc6b4fd4fe80bdb6e5f371d821b"
 metafile = true
 
 [[files]]
 file = "mods/exposure-polaroid.pw.toml"
-hash = "d3c7755950df2368ba4959eb7b8f3a142242a0cd27d2d18d3d127ea72482a325"
+hash = "5d2c7666928f62d709f6890e20dd77de984837476ba181ef7f3c5e8acbe0a8d1"
 metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "1dc09ef29e50db6aba5c6fbfaf892983444a0d4ca25f856f1d2838e0c6546166"
+hash = "28c29922378fa19f4edf1d16fffb48287a87be159a3378647073bbdebd2a2196"
 metafile = true
 
 [[files]]
@@ -2217,17 +1530,17 @@ hash = "6a06eed2afe83f4b37828b307645dea3003bde8ae6aa0cb00e7206944e511716"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "b75ba223cc0d159d38890b0c5db42e9454210f874dd0d0b9060f8277e803a5d8"
+hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
 metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "9db6b697952d190c3c3fc6024f74713d74a808e5ec85c1adfd3e23ca769cd588"
+hash = "f3935636357eb78086ff6ba4e8ed68ea0d63411dadbaaf97f25727cfbc6399e3"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
@@ -2237,37 +1550,32 @@ metafile = true
 
 [[files]]
 file = "mods/gallery.pw.toml"
-hash = "81f58a764bd8b35ff4fcafbd94cf90106a62b9b62f43696d28e31002b79a5def"
+hash = "b98c428b3eaca3332047b113673235526418fcc1d2b55e660dc4308d73b85ae5"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
 metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "cdc66a084161b07f0f07e8a445272862270f1f7be71a8ec94959365395eadc86"
-metafile = true
-
-[[files]]
-file = "mods/haunted-harvest.pw.toml"
-hash = "c6746826da9bd56a6060db2945a16c27c6744622890f5d278565dd6c41ebd22c"
+hash = "e56f8bbfe55aa00d09e341913cba870fb6218fba8df4a136f2443705982bce1f"
 metafile = true
 
 [[files]]
 file = "mods/hypertube.pw.toml"
-hash = "590367627beaf24a765bac0b3970b278d242045ef095a848dfba0615ab449bae"
+hash = "672fe2518a1795814efc943c3e3cf8dc1b993bc7d838cc62950acfaba348c2c7"
 metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "87309254dc50bcedf00b64fee21a17b19eb4c9307b37ce468c49f57e03ee9079"
+hash = "306c6a05c47046994a065bd8a461bd1ba1a7a8187f267c35ddf81c0a3041ed98"
 metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "0eef279850c173527c29e0d550aa4a6a616caf031056ac85e69ced91e0cc8ce1"
+hash = "75b43f1a86593360f10703b7625da4e0a3c435bf13bf8b5b75fa383a0338dade"
 metafile = true
 
 [[files]]
@@ -2277,22 +1585,22 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "7a733deb39d1e1691a5746de380da94c47f5d99786a4d22e428b7de58fcc7950"
+hash = "ed85b2ed42beb6523223eef6f0ae397ed29f8059b2bf5aa08d8598de04865614"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
 file = "mods/jade-addons-forge.pw.toml"
-hash = "86a9907f38e631cf0b5a1b9f66ddde35fcad3b1eb770550a7de9f52ccf6de6a5"
+hash = "6fd64a8c68d2935cbc62ca4346be2d3b702c05bc231f7bbb436bc3a4d8ab70e8"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
 metafile = true
 
 [[files]]
@@ -2302,42 +1610,32 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "25680ee42912b70c0a0404ebf5b96982ee6942818c12d282888f8a18066f3adf"
+hash = "5064886c68e5a06acf633f9110310f34d64b540cf505911f543e941062fcc71e"
 metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-create.pw.toml"
-hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
-metafile = true
-
-[[files]]
-file = "mods/kubejs.pw.toml"
-hash = "e8c20c0c77e5df58d1386d8190ee16a957d78d62d361469db0b0c29458bf1e84"
+hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "8fcfd4c28dc5b2efa52f936d52e6ca8257f3d12af21d31d7c65dc7d43b08d55d"
+hash = "32551cd3db88210863565b772ee47679cbf1eeff163fb93b9ef84a79fa069496"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
+hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
-file = "mods/lootjs.pw.toml"
-hash = "3b7b23c07ab60d818286d5767e59375a9eafdd52fbfb8d6e2e14fcc79df5a584"
+file = "mods/lithostitched.pw.toml"
+hash = "b44ca90546d8fbf059a68aa34ed1106825fb99b8e1570d1edc16bec38af8a0e8"
 metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
+hash = "a4e12af3a61f73db9128b857d053770f1d4cab64697a08c9d027e5c8bcdf6891"
 metafile = true
 
 [[files]]
@@ -2347,27 +1645,22 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "ad52f42cb5e9080cd493d1e7b2acfbc6c662ece8f094288604d54a224ce0e440"
+hash = "724b5f22ab51c24880dedc363ae4f87fd76855a9cbf81732cf45c17f092159f3"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6ae9430e2319ead3cb8580633c13d119c9d06f097204f3f8afbc0e4681e9a807"
+hash = "c84140c66f233909b392bd7253ca33c59903ffda51beff558d9a2a4a8c6bc269"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1965658333e46f8a375d3efee20cbfc49400d576f7051e81da832a70da79e3c0"
+hash = "7bdc8798ec7043f448b94683798acc93560e21b34677a39631af8120371192eb"
 metafile = true
 
 [[files]]
 file = "mods/more-delight.pw.toml"
-hash = "2e83694cc30156074cb173690dcc33ceb5b4b365bc9e361e283597161768d01c"
-metafile = true
-
-[[files]]
-file = "mods/morejs.pw.toml"
-hash = "f53cc593da93578483624241ca1390829588bc5881a9d31ac512b74b0eb2f86b"
+hash = "7b00b0ef46a798a4a46fe541314c63cfd62017190cd554e855cc21ef44e32635"
 metafile = true
 
 [[files]]
@@ -2382,7 +1675,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
+hash = "2711397b3a83d352dcd5e952d67c0d58cf96975148e7357df24d5fee0a6e8ebf"
 metafile = true
 
 [[files]]
@@ -2392,7 +1685,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-restrictions.pw.toml"
-hash = "bbaa5acb4a63efb00b03a674e3c4490a67da1c24ca9b8d6c43f74a1dee905049"
+hash = "188500c93c2f057ae0053890e72e409e2c4ddaedfcb34bdfecb87b6299b5717d"
 metafile = true
 
 [[files]]
@@ -2407,17 +1700,22 @@ metafile = true
 
 [[files]]
 file = "mods/numismatics.pw.toml"
-hash = "9ffaf9a44c00156d1e613884271c8224db4cbf019e5d032d5b444bdba983122f"
+hash = "840eb517a83c586b9f543ab9781d4c8529b6fedf2d679f411577c7a583e50fe5"
 metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "86ce4c3fb78e360ff67a43e2779f1d52333267d799b1a252969589092d55bb6a"
+hash = "26986313fbb6a911f1885ee37841cdee4b98584fef8fa5a16768a54a7c6a1d25"
+metafile = true
+
+[[files]]
+file = "mods/opac-essentials.pw.toml"
+hash = "449e42ef13c855438899a6e146b88405b253470896c06a9758558e29e1b94f6e"
 metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "9d4e4bd1007b5529b2b35439d00d74f0554f2bd8ae0d4d72aeab9d8063c60beb"
+hash = "8203f8a717411ed58bf875952a37b7ca752748e3fcc8c19fd536ecfd0a7157ca"
 metafile = true
 
 [[files]]
@@ -2437,7 +1735,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
@@ -2447,21 +1745,22 @@ metafile = true
 
 [[files]]
 file = "mods/personality!.pw.toml"
-hash = "5349bc3d530ad08d9517fc169f66b8c92911b08257ad2c0d28cd719d51af64cf"
+hash = "1fe435750e9ada72bd54b4d1124088e8e9f6401d7710b296b86e8030cf0098cb"
 metafile = true
 
 [[files]]
-file = "mods/petrolpark-1.21.1-1.4.26.jar"
-hash = "1b6f46c5523997d04c0f58dfe0c5ddea29f42e085798ecdda47d31935f178788"
+file = "mods/petrolpark.pw.toml"
+hash = "633448224d54cb3c8240dbf3d15a61251f2897961476d0933676a6ef4652a99f"
+metafile = true
 
 [[files]]
 file = "mods/petrols-parts.pw.toml"
-hash = "a44b24e27736bdd8d8cb69fb955fc83211b226dcf15cf97238d52e10a20c1f18"
+hash = "d190580497e9bc5dbf6ca81eeae3ffac4dda21362c736f00fb876e7bd708929b"
 metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "0ca90a25548289e4149c3d8435d50b75ff28bb83f973bf3e2cdc8a0b4b911acc"
+hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
 metafile = true
 
 [[files]]
@@ -2471,31 +1770,22 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
+hash = "ac245e55621b2c36689db9068a9c6bfd01f98b89c66e344399a4a5a9fca209be"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+hash = "0f465bf38b13f887dbde506c859c9b5439ee9151ae5f3a98078b9f6c3a2c89ad"
 metafile = true
 
 [[files]]
-file = "mods/repackaged-0.0.3.jar"
-hash = "cf9cc81fedda405483160f48a982628d18324fa4bf1cec9acf7213a35f25ef85"
+file = "mods/repackaged.pw.toml"
+hash = "55a6245d3b767ba1d0120f83c00a6e1732bdcd166eb4b943e44418980760f090"
+metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c1c0115c6c624471c08f94ca065bd6876505591df7eabde099a4868cf6397a13"
-metafile = true
-
-[[files]]
-file = "mods/rhino.pw.toml"
-hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
-metafile = true
-
-[[files]]
-file = "mods/ribbits.pw.toml"
-hash = "6a598c073aabc968d8ee736141d238c517e13662f3de0feb81796cb9c0d6f4f0"
 metafile = true
 
 [[files]]
@@ -2510,12 +1800,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c4f12c7bf746bdf25719995f9da8626187e9f879a20e29a9b4854e2066ad20bc"
+hash = "4bbb4ff006bf5f27179a47683b2710c92cb3314a1520e95bcd1808a6ea94ec4a"
 metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "18ca1d438084a8578f4b75f12233db58ca1deec55f117fb875afa21f2c021559"
+hash = "83a7b840686a417dfe1161ee5cd918989dd2d901c9013bf85e93a30f597260f7"
 metafile = true
 
 [[files]]
@@ -2529,48 +1819,48 @@ hash = "87540c0d6ab0668d93a31b77eb794c76acee411475365a148eb1225e029d5a0d"
 metafile = true
 
 [[files]]
-file = "mods/snowy-spirit.pw.toml"
-hash = "7efbe0c8b42d3231f12f2d7c2be3c6ff4395a50240371ddceb387befcf1e9597"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
-hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-create-integration.pw.toml"
-hash = "98894c50922dfad36e4313d798d4497a61c42ce855b44fd63aea79b4990cac5d"
+hash = "34e176e86ed149907baf37eb0dc0346f11455ee0b0581e9f6e9fd99d11c43cf6"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "2f68626c1dfdcefa3bf39cdf2d2d698638ff6243393295b918632c97013bd5f4"
+hash = "2b3710eb891a5f6c8a0db46f2b51b1505794ab10244353d35357d269279bbc86"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "2bd0736203caad3c53e9d644a339c04d7fd0856c7f87b4cfd3e4d6860bb9ef53"
+hash = "9d4a04a61b2cebf80d76716f2d3c034d17f817327cbad6a79921a05c2e2c23a3"
 metafile = true
 
 [[files]]
 file = "mods/sort-it-out.pw.toml"
-hash = "9d1489ac5683ee17db8ce5290ca83b7bc6153889b6a0590e7e9b20097ad55cf0"
+hash = "df550272732a7cff425e318c1c43f08df67595e8194f852f3847a4d98b56f1da"
 metafile = true
 
 [[files]]
 file = "mods/srdp.pw.toml"
-hash = "ab193bbfe680e9463795f723abc65f300efb07249c137ba9ab533176ff4ebf4d"
+hash = "c40cd6e94191418cc6f334ffc37d55f09064ab19623ea119b2e74c9688d82109"
 metafile = true
 
 [[files]]
 file = "mods/stone-zone.pw.toml"
-hash = "896b8502bc5b521223d4935c364ee65b5023ac18e2041c0c93b26428c4d87499"
+hash = "ff9375815700853241baecc0985a5348aa44f9c5ba685afb595e22d754bf5bf5"
+metafile = true
+
+[[files]]
+file = "mods/strut-your-stuff.pw.toml"
+hash = "aa89e067824ca42d818a81a6d02ce5296ce662d834c35dd2ff0d81189d3bc3f9"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "4e45380047390a7981bad480189ac806694d244bb10138ede288fd2e4539dc1f"
+hash = "d21a12215af9b47e6bc442a4311e27100b7233aff938eb988edffdae982021a9"
 metafile = true
 
 [[files]]
@@ -2595,7 +1885,7 @@ metafile = true
 
 [[files]]
 file = "mods/torchmaster.pw.toml"
-hash = "23ea2c32834281723c63d45ffe42969172492d36309755a46bc47154c3014b3f"
+hash = "64cf219dce58f7a67d662d66bf3f04df625a92f0200e5a5e91083e12902a5199"
 metafile = true
 
 [[files]]
@@ -2605,7 +1895,7 @@ metafile = true
 
 [[files]]
 file = "mods/tradeworks.pw.toml"
-hash = "51fae1bb94a31c8b3dcd0d546845b37964b036ab543d46f6775309715a45cc81"
+hash = "be1ac9fe5e8e36cf4f51f859fb31eb6c017d8031d09f5b15e922c8ee6691febd"
 metafile = true
 
 [[files]]
@@ -2615,12 +1905,12 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "f016a7d796ee67a3a3cf8bff2f0fff40456a4fca65ab40bcc512521570f1ab45"
+hash = "5fb112fda6e4350579e4bc922884d1673297f317d2bc0fd2dae99e510f7f1297"
 metafile = true
 
 [[files]]
 file = "mods/villager-in-a-bucket.pw.toml"
-hash = "3e9c8727137b1c6fc3417153ade02c9a02dce16a6f91440cbf38a610af2f8654"
+hash = "8f78f6b1257073773642488383a14df8c7a9bf1ffb40a4177b2b3dc0d61412e3"
 metafile = true
 
 [[files]]
@@ -2630,12 +1920,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "473b998b1acd6c14874f9db9ae5986b1de92820456de2ff57ad4f8b2d64ccfff"
+hash = "4c336c9a00838ff5b5bbf6cd8ae35927186fdfa42258ca15513835e1b12ced2f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "6d531ca789931cf437a72fef1a868a51d8afe4db12565a525e71c154304f4e29"
+hash = "69df708c9b3980d96c953eaa0f98a9cb82ce7679872d1364da5ca4c116dc40b1"
 metafile = true
 
 [[files]]
@@ -2645,12 +1935,12 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "fd8994221802e444c1b1b2da9d3d816a040860d875c56ce15be401b865e2eae5"
+hash = "d0ad6ae032766815daeb9d5db6605a7fb90eecc3a066845f1b5836f006002aed"
 metafile = true
 
 [[files]]
 file = "mods/zume.pw.toml"
-hash = "102bf98f0468746f140a4dfe1b3ccc644149c63b0ece8a8f38b7fe1eaff0538c"
+hash = "165466fe8e528309d95875396f2a5e13c0bab7bcb0c1134d1fd5f3a935d488f5"
 metafile = true
 
 [[files]]
@@ -2665,15 +1955,15 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "015b33a9619d0a9ce18bc30b0a06dbb388b7d8ba0f24d63b4bc3db88bdb25101"
+hash = "f91c2ec79366b4607d93928a07c223cbaa4a2e18fe0c110e68a3fc064e69b65a"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
+hash = "1ea0f1604ce00b5a40b9ff4b679a5ec69dcc72bef9a75225a3698d10edd514b1"
 metafile = true
 
 [[files]]
 file = "shaderpacks/photon-shader.pw.toml"
-hash = "c5f5607e814ad098d4aa080d2675a610bbf388d1b04fd59f06aad8caa07c4020"
+hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
 metafile = true

@@ -1,13 +1,13 @@
 name = "Lootr"
-filename = "lootr-neoforge-1.21.1-1.11.37.118.jar"
+filename = "lootr-neoforge-1.21.1-1.11.38.125.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EltpO5cN/versions/EB2B27qh/lootr-neoforge-1.21.1-1.11.37.118.jar"
+url = "https://cdn.modrinth.com/data/EltpO5cN/versions/ST5FHZnD/lootr-neoforge-1.21.1-1.11.38.125.jar"
 hash-format = "sha512"
-hash = "c813ee83be96ab72674e75ac080b2a412bd523540cff6d6d71f40ed4a906b9631f77cdfadef89e3161f408dfc2450a10fe9654ef421a87366fe2b739e0174d81"
+hash = "2e8fe46ff11a7865408d9417c31f46d80450814dd1c7ce0d67d515e4daec40eb99c95e8f83c01158d82d6c58128ab1f26e5c536fdc1a4e15b1f318a4cde3d512"
 
 [update]
 [update.modrinth]
 mod-id = "EltpO5cN"
-version = "EB2B27qh"
+version = "ST5FHZnD"

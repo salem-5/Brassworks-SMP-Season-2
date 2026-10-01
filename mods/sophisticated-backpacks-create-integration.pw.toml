@@ -1,13 +1,13 @@
 name = "Sophisticated Backpacks Create Integration"
-filename = "sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar"
+filename = "sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/s85zLEDe/versions/bWd7B59k/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar"
+url = "https://cdn.modrinth.com/data/s85zLEDe/versions/ljF9gEMb/sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar"
 hash-format = "sha512"
-hash = "130d9a77f2b43926c9398983740813d268ce58e022a3c8e0eab98ba2439b9d3b2b819b0a845a8eb06bc336bdeb16e86cd4cbe8f7af834c11aaf1ae678977fcac"
+hash = "6b331668d85f421d64e85adce71ba3952b80c4ffecc38b86268d87dfcf16447c20e060b110c398ede4e5b95e18d8e59dd7304eab8a51860b1c82cb01ca6c6c9d"
 
 [update]
 [update.modrinth]
 mod-id = "s85zLEDe"
-version = "bWd7B59k"
+version = "ljF9gEMb"

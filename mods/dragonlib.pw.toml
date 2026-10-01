@@ -1,13 +1,13 @@
 name = "DragonLib"
-filename = "dragonlib-neoforge-1.21.1-beta-3.0.24.jar"
+filename = "dragonlib-neoforge-1.21.1-beta-3.0.28.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sbIsGaOV/versions/M6CMBAur/dragonlib-neoforge-1.21.1-beta-3.0.24.jar"
+url = "https://cdn.modrinth.com/data/sbIsGaOV/versions/x376YU9w/dragonlib-neoforge-1.21.1-beta-3.0.28.jar"
 hash-format = "sha512"
-hash = "f12aad125f79b50b8670d3100293663b482e22c819435b64867a8c8beee83e48b3c2f5a8ed60e4cad6215bfad06f8a24f23d6cded2c003d91bf32e74749f7955"
+hash = "859ff5bcf97dab2afff7d75620a24bb2f472a75e8cbf04f536bb0d9655d1f7f5dbdcab8cf13ca706dfc57e0581bbb1d5e3331c3dfece7324761b9e55bcd62931"
 
 [update]
 [update.modrinth]
 mod-id = "sbIsGaOV"
-version = "M6CMBAur"
+version = "x376YU9w"

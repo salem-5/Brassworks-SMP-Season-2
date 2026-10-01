@@ -1,13 +1,13 @@
 name = "Create: Compatible Storage"
-filename = "create_compatible_storage-2.11.0-neoforge.jar"
+filename = "create_compatible_storage-2.13.0-mc1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5ofroZ5W/versions/Lo7RlFHl/create_compatible_storage-2.11.0-neoforge.jar"
+url = "https://cdn.modrinth.com/data/5ofroZ5W/versions/KnL9gDAD/create_compatible_storage-2.13.0-mc1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "645dde7fbc7090bfae58e2c83f8669e4fe2eea247cb1348bd0920b3053baeb7e400f70ea4672ae56833860198daaa8a757a879f0ae238198def3d0d586bee284"
+hash = "bf16ec38a0fa144ca639ef20f20af61ec1d6e88761122161aa1dbf5164e58a8c9b318c30adcc1d691f288b8a05e19d4c74a4a77732b4630f20b5d810244ac67c"
 
 [update]
 [update.modrinth]
 mod-id = "5ofroZ5W"
-version = "Lo7RlFHl"
+version = "KnL9gDAD"
