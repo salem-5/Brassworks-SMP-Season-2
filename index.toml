@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/adorablehamsterpets/ui.toml"
-hash = "e91881d3bdc2ee189c46a70f6498755f5a30d11eb40da54dbb23d0c58c6a3c77"
+hash = "99e0a8f2c2680563bb1b2e157ee109c63b35b8724ff7c17bdaf6bba2ccb65036"
 
 [[files]]
 file = "config/amendments-common.toml"
@@ -1180,7 +1180,7 @@ metafile = true
 
 [[files]]
 file = "mods/brassworkscore-3.8.jar"
-hash = "38add4bf0f9ebdd9d19f30938ab6fd6b34d3a96d559fd70cd807c6a13856b3ae"
+hash = "33d17db20b7dc529df9f2af7f8e41a12e5ab2299e66c79fefd612460365c623a"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
