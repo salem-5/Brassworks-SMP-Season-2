@@ -1610,7 +1610,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "c911d03476ac0e535c3c601ad98a725ce685e063032474abbf2a2fb9bf23f786"
+hash = "58ed8e868a732911b326d45f10478dfd959b2717d720e1a60c8e1230f8bc1da2"
 metafile = true
 
 [[files]]
@@ -1641,6 +1641,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "4ea155b000509070854a4b8f9b6e790b7f90aa9187cd611a15ee6693fc157cf1"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "12c6e23ca90b3dc4df9f51c445d944e7cd298186dec5aeff65b66e54343f3272"
 metafile = true
 
 [[files]]
