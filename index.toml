@@ -1180,7 +1180,7 @@ metafile = true
 
 [[files]]
 file = "mods/brassworkscore-3.8.jar"
-hash = "fe55294bfd3b8d6c11e69a104b5afb2bc32dfcd87f88036fd893338600c0c630"
+hash = "eb5996153e1fa0994bb9861ea32fa8912ab298e368f419f4def839805f992446"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
@@ -1355,6 +1355,11 @@ metafile = true
 [[files]]
 file = "mods/create-qol.pw.toml"
 hash = "61892c3c7dd720662a6c21b0e8eec4dff8a5994868a3a2addb917dd3f99c47a9"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "c0cb2bd911bed59edcc68e7c1e8e044acb51e791ff0d5f376138097def308cb6"
 metafile = true
 
 [[files]]
