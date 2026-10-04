@@ -1,0 +1,13 @@
+name = "Open Parties and Claims - Essentials"
+filename = "opac_essentials-2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u0lYa0ln/versions/XmXujRlQ/opac_essentials-2.2.1.jar"
+hash-format = "sha512"
+hash = "f5364504b758942b36dc2c801ec950d5f93d4d0dcead8eff1e8e84c154de89d4dd6f056efa615f1771328237dc9fe57334d830232585540f4b58c4639c614791"
+
+[update]
+[update.modrinth]
+mod-id = "u0lYa0ln"
+version = "XmXujRlQ"

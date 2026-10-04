@@ -1714,6 +1714,11 @@ hash = "26986313fbb6a911f1885ee37841cdee4b98584fef8fa5a16768a54a7c6a1d25"
 metafile = true
 
 [[files]]
+file = "mods/opac-essentials.pw.toml"
+hash = "93bcbf23072c502c6f6b823a8797b528a30b8d55de54ec67f1f3ccdda503ee2c"
+metafile = true
+
+[[files]]
 file = "mods/opac_essentials-2.2.1.jar"
 hash = "b2c000f21620d3db6a8dfb77c569804ebf17c4397ab870ee37df0a30f0a6dbc6"
 
