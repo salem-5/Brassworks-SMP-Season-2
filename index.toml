@@ -890,7 +890,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "28f9e5d11d5ef6040ec4d1461ff2a8fc45deafdcea03610bf77188ad1dbb4b72"
+hash = "210e09bc7c148005968eb5e52b48a477bf8ef590c930c311ef16679bb8071cad"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -1095,6 +1095,10 @@ file = "modpack-info/versions/2.7.0/changelog.txt"
 hash = "ff65c826e9f303db52eb32b204cd079bffa7062a768e782b8a90bf90d48e0dfb"
 
 [[files]]
+file = "modpack-info/versions/2.7.1/changelog.txt"
+hash = "694dd3151b9bb4a32035abb9d7c6f57d4c356836b06a4c0c6a4ef28a5ab1f363"
+
+[[files]]
 file = "mods/SimpleCustomEarlyLoading-2.0-neoforge.jar"
 hash = "1263ee0c2275709beecf77ae056a0db98a48cb0e84a72a1dedab8c1fa4f677c0"
 
@@ -1184,7 +1188,7 @@ metafile = true
 
 [[files]]
 file = "mods/brassworkscore-3.8.jar"
-hash = "493d2a0ee89055608e71767364e4d16cc10c220e3fc7f0fa2bef503081ff2778"
+hash = "a6b9cc69b84e6d7af36b65a40f39be4e65c61579d02b2f7d0f28efeca6f9d4f1"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
