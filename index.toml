@@ -1397,7 +1397,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
-hash = "2244c6c580c41f432e02bc82a6f78af0b1777de42400d1e5b702208376c56c6f"
+hash = "7bdf3b6cbe0579a034372ce1eec83e3c1888134f19beb6b17fbf2005706453be"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-and-addition-tank-fix.pw.toml"
+hash = "892f1bcad13d7048f0d4c6d372937d76dbb26b438433684426f5be98b08b356b"
 metafile = true
 
 [[files]]
