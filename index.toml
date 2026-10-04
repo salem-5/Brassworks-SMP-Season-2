@@ -1397,11 +1397,6 @@ hash = "2244c6c580c41f432e02bc82a6f78af0b1777de42400d1e5b702208376c56c6f"
 metafile = true
 
 [[files]]
-file = "mods/create-stuff-and-addition-tank-fix.pw.toml"
-hash = "ca2a30a137e802c65a6f84026a874b0acaa7dd755509ae2eb0548c33c9840e43"
-metafile = true
-
-[[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "dd46758c8eb82deb6dcd56a9879dc5e583ff812245ebb357fd79053a60c58871"
 metafile = true
