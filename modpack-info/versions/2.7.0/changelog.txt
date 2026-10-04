@@ -1,0 +1,27 @@
+**Fixes:**
+- Fixed an issue that sometimes sent players back to the queue when joining
+- Fixed a duplication exploit involving Sophisticated Backpacks
+- Fixed Tutorial Screen on first join
+
+**Additions:**
+- Added a monthly voting streak with different rewards
+- Added site-specific voting reset timers
+- Added an AFK queue that automatically removes AFK players when the server is full, starting with those who have been AFK the longest
+- Added automatic chat moderation for inappropriate words, abusive pings, and spam
+- Added OPAC Essentials
+- Added recipes for moss, resin clumps, and ashen train tracks
+- Added recipes to convert coral fans into coral blocks
+- Added Egg Tea
+- Added Advanced PvP toggle
+
+**Updated:**
+- Updated NeoForge and mods
+- Updated the voting system and UI
+- Changed marketplace waypoints to destination waypoints
+- Rebalanced Chicken Roosts
+- Replaced EMI with JEI
+- Moved recipes and other KubeJS-managed content to BrassworksCore
+- Replaced the corpse system with a custom implementation
+- Improved system messages
+- Restored the fully rounded project icon
+- Removed Snowy Spirit, Bitterballen, Haunted Harvest, and Ribbits

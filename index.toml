@@ -890,7 +890,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "a287a434fe0f5d077f18b29c5793232155797f45a98b24a6bacce91006023336"
+hash = "28f9e5d11d5ef6040ec4d1461ff2a8fc45deafdcea03610bf77188ad1dbb4b72"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -1089,6 +1089,10 @@ hash = "67e8149e1f63202c9afe58aee0dd3fd6d803532ad370ec1561d8a96031de674b"
 [[files]]
 file = "modpack-info/versions/2.6.1/changelog.txt"
 hash = "2fbee99714e25e8dc2664503e0669fc806c39a5caa8d32e6a7cf420127c164be"
+
+[[files]]
+file = "modpack-info/versions/2.7.0/changelog.txt"
+hash = "ff65c826e9f303db52eb32b204cd079bffa7062a768e782b8a90bf90d48e0dfb"
 
 [[files]]
 file = "mods/SimpleCustomEarlyLoading-2.0-neoforge.jar"
@@ -1717,10 +1721,6 @@ metafile = true
 file = "mods/opac-essentials.pw.toml"
 hash = "93bcbf23072c502c6f6b823a8797b528a30b8d55de54ec67f1f3ccdda503ee2c"
 metafile = true
-
-[[files]]
-file = "mods/opac_essentials-2.2.1.jar"
-hash = "b2c000f21620d3db6a8dfb77c569804ebf17c4397ab870ee37df0a30f0a6dbc6"
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
