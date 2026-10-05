@@ -1,12 +1,12 @@
 name = "Brassworks SMP Modpack"
 author = "swzo, Pipo1660"
-version = "2.7.2"
+version = "2.7.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5ca383e3a64ee63034199aa4c398fa1281a5ab5511bbea9fcdfc15e9374cfdb7"
+hash = "c94b63743fc86410b0e3d98cb523fbe51841c6cb1d1d64500ca031f80471a494"
 
 [versions]
 minecraft = "1.21.1"
