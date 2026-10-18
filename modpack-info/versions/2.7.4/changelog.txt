@@ -1,2 +1,8 @@
-**Additions:**
-- Sniffer Trophy (1 Year Anniversary)
+**Updated:**
+- Banned `petrolsparts:planetary_gearset` and `petrolsparts:colossal_cogwheel` due to related issues
+- Updated OPAC - Essentials
+
+**Fixes:**
+- Fixed purchasable chunks
+- Fixed being able to put back items in corpses
+- Fixed a few crash related issues

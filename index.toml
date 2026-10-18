@@ -890,7 +890,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "2696cfe50d2499108bc7e129df3c1d728b3c7aca0fa7a2a10a2f0977e01bd3b6"
+hash = "715c3b2f30b49108b674af969fd2ebc42419ee969bb287038bdbd8a126083d30"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -1107,6 +1107,10 @@ file = "modpack-info/versions/2.7.3/changelog.txt"
 hash = "705869b675b39d55ee40746f6ec62a81446605f8daf4d80bf1d3e9139576e3e7"
 
 [[files]]
+file = "modpack-info/versions/2.7.4/changelog.txt"
+hash = "13aa063c33e3a33757bfeb908ccf1656b28bbce404cc39a313d9535ab83c7837"
+
+[[files]]
 file = "mods/SimpleCustomEarlyLoading-2.0-neoforge.jar"
 hash = "1263ee0c2275709beecf77ae056a0db98a48cb0e84a72a1dedab8c1fa4f677c0"
 
@@ -1195,8 +1199,8 @@ hash = "ead3aff0899e5bc61eb22fe0af86722b430f9e92990b3cd2720d5c2c1f66d023"
 metafile = true
 
 [[files]]
-file = "mods/brassworkscore-4.0.jar"
-hash = "2cd090815bb1dbe85e609eb83e1f8b2d242a8d97df89be93fcb9de5cb280ad28"
+file = "mods/brassworkscore-4.1.jar"
+hash = "2296b0bf7d39783d91cc14eb5c2c5bdd3e88b70aeacf36ad8b7245f8af833e14"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
@@ -1281,6 +1285,11 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "7a7eeb96f8cf82768269855ff837c07fa75daf32a6f560d85f2bf901402d70d3"
+metafile = true
+
+[[files]]
+file = "mods/create-collision-crashfix.pw.toml"
+hash = "c4576330dd89aada6c3d2598554152689ffa390db6b822ef95b356f167697ae0"
 metafile = true
 
 [[files]]
@@ -1731,7 +1740,7 @@ metafile = true
 
 [[files]]
 file = "mods/opac-essentials.pw.toml"
-hash = "93bcbf23072c502c6f6b823a8797b528a30b8d55de54ec67f1f3ccdda503ee2c"
+hash = "52926c06f0b8f15b95bf078968791bcaa84cf485e0e9293135ae74027bed85ef"
 metafile = true
 
 [[files]]

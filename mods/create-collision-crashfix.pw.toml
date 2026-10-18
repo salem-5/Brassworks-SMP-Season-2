@@ -1,0 +1,13 @@
+name = "Create Collision Crashfix"
+filename = "create-collision-fix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j20TJ3QZ/versions/oIRUjqoI/create-collision-fix-1.0.0.jar"
+hash-format = "sha512"
+hash = "a82d3be45d1f26780e6c5c51f1627fad92c7ff1a8ebf0df9e560aa3045aa71e019326ae48cca3eb86633f2c9f5cbe8994ea123c03195e0d20e25a9a01be1961b"
+
+[update]
+[update.modrinth]
+mod-id = "j20TJ3QZ"
+version = "oIRUjqoI"
