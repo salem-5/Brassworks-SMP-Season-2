@@ -1,0 +1,8 @@
+**Added:**
+- Added Vampire, Pumpkin, Plague and Ghost Sniffer Plushies
+- Updated Sniffy Plushie model and texture
+- Added Monster Hunt event (Nov 1–30, /monsterhunt)
+- Added seasonal logos: Autumn (Sep–Nov), Winter (Dec–Feb)
+
+**Fixed:**
+- Year 1 Anniversary advancements are now hidden
